@@ -147,3 +147,7 @@ npm run dev
 - [ ] Set up an S3 lifecycle rule to abort incomplete multipart uploads after N days
 - [ ] Use HTTPS in production (put backend behind Nginx with SSL)
 - [ ] Consider storing upload state in Redis for resume-across-sessions support
+
+<img width="1015" height="623" alt="Screenshot 2026-04-13 at 4 13 25 PM" src="https://github.com/user-attachments/assets/b42bae4c-d0dd-482f-b704-2d3cb390cc66" />
+<img width="1015" height="623" alt="Screenshot 2026-04-13 at 4 13 07 PM" src="https://github.com/user-attachments/assets/d94af20e-6df1-4336-876e-602155210008" />
+
